@@ -19,3 +19,6 @@ The vacancies have been web scrapped in 2019, 2020, and 2021.
 Composed of 3 files, he needs to be formated in order to get best results and sense for further processings.
 
 # Some visualisations
+![Dashboard](https://github.com/ValentinTh/ValentinTh/blob/main/data-projects/RShiny/Dashboard.png)
+![Graph](https://github.com/ValentinTh/ValentinTh/blob/main/data-projects/RShiny/Graph1.png)
+![Graph](https://github.com/ValentinTh/ValentinTh/blob/main/data-projects/RShiny/Graph2.png)
