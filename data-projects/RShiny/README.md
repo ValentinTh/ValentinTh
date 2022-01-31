@@ -17,3 +17,5 @@ The vacancies have been web scrapped in 2019, 2020, and 2021.
 1st level represents the core families of skills and 2nd level is the children/relatives values.
 
 Composed of 3 files, he needs to be formated in order to get best results and sense for further processings.
+
+# Some visualisations
