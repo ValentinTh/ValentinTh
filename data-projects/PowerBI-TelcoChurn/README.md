@@ -17,5 +17,5 @@ The dataset comes from a public dataset database.
 
 # Some visualisations
 
-![]()
-![]()
+![Page1](https://github.com/ValentinTh/ValentinTh/blob/main/data-projects/PowerBI-TelcoChurn/PowerBI-TelcoChurn-page1.PNG)
+![Page2](https://github.com/ValentinTh/ValentinTh/blob/main/data-projects/PowerBI-TelcoChurn/PowerBI-TelcoChurn-page2.PNG)
