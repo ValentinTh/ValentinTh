@@ -17,3 +17,6 @@ Separated in 3 steps :
 The dataset is a group of CSV files extracted from the customer's CRM. We have to deal with inconsistent data and to transform it.
 
 # Some visualisations
+
+## Task 1
+![KPMG1](https://github.com/ValentinTh/ValentinTh/blob/main/data-projects/KPMG-Data-Analytics-Experience/KPMG1.png)
