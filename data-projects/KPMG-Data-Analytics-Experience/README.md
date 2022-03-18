@@ -1,3 +1,5 @@
+![TITLE](https://github.com/ValentinTh/ValentinTh/blob/main/data-projects/KPMG-Data-Analytics-Experience/Data%20Analytics%20Virtual%20Experience%20Program.jpeg)
+
 # Goal of this project
 
 Take the mystery out of big data and learn what it’s like to produce business results with the KPMG data analytics team.
@@ -5,6 +7,7 @@ All the tasks that a data analyst consultant would do with tools such as Excel, 
 
 # Context
 
+![Logo](https://github.com/ValentinTh/ValentinTh/blob/main/data-projects/KPMG-Data-Analytics-Experience/SprocketCentral-logo.png)
 We have 3 datasets provided by our customer, Sprocket Central Pty Ltd, which is looking to improve the customer base and to target data issues and generate insights.
 
 Separated in 3 steps :
